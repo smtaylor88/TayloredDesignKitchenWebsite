@@ -136,8 +136,10 @@ h6 {
     font-size: 0.75em;
 }
 
-.address h1,p {
-    color: #fff999;
+.address h1,p,ul {
+    color: #fff;
+    list-style: none;
+    list-style-image: none;
 }
 
 .address_block {
