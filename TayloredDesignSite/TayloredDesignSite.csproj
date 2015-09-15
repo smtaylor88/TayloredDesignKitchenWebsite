@@ -61,6 +61,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Video\GraniteInstallation.wmv" />
     <Content Include="img\.DS_Store" />
     <Content Include="js\.DS_Store" />
     <Content Include="js\min\.DS_Store" />
